@@ -1,9 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
-    <h2>All the best. Work Well</h2>
+    <>
+    {/* <h2>All the best. Work Well</h2> */}
+    <Footer/>
+    </>
+    
   );
 }
 
