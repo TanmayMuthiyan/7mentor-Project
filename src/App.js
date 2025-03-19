@@ -1,11 +1,17 @@
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 import './App.css';
+import Demo from './Components/Kartik/Demo';
 
 function App() {
   return (
-    <h2>All the best. Work Well</h2>
+    <Demo/>
   );
 }
 
+<<<<<<< Updated upstream
 export default App;
 
   //   <>
@@ -16,3 +22,6 @@ export default App;
 // }
 
 //export default App;
+=======
+export default App;
+>>>>>>> Stashed changes
