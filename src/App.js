@@ -1,17 +1,15 @@
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
+import  Footer  from './Components/Footer/Footer';
 import './App.css';
 import Demo from './Components/Kartik/Demo';
 
 function App() {
   return (
-    <Demo/>
+    <div><Demo/>
+    <Footer/></div>
   );
 }
 
-<<<<<<< Updated upstream
 export default App;
 
   //   <>
@@ -22,6 +20,4 @@ export default App;
 // }
 
 //export default App;
-=======
-export default App;
->>>>>>> Stashed changes
+
