@@ -16,10 +16,8 @@ const App = () => {
        <Banner/>
       <Demo2 />
       <TourSection />
-      < CustomersReviews />
-    
-    <Demo/>
-    
+      <CustomersReviews />
+      <Demo/>
       <Footer/>
       <ContactForm/>
     
